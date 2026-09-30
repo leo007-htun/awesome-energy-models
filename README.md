@@ -51,6 +51,7 @@ In alphabetical order.
 |`boptest`|Simulate and benchmark building heat transfer.|🎬|⚙️ 🎮|🏠|[[code]](https://github.com/ibpsa/project1-boptest)|
 |`calliope`|A multi-scale energy systems modelling framework.|📝|🎮|🔋 🏭 ⚡ ☀️ 🌬️|[[code]](https://github.com/calliope-project/calliope), [[docs]](https://calliope.readthedocs.io/en/stable/), [[pypi]](https://pypi.org/project/calliope/), [[website]](https://www.callio.pe/)|
 |`demandlib`|Generate electricity and heating demand profiles.|📝|🎮|🏠|[[code]](https://github.com/oemof/demandlib), [[docs]](https://demandlib.readthedocs.io/en/latest/), [[pypi]](https://pypi.org/project/demandlib/)|
+|GERT|Deterministic teaching toolkit for grid risk: computes load-vs-capacity gap energy from public ERCOT data with an independent Python verifier.|🎬|🎮|⚡|[[code]](https://github.com/DresdenGman/Grid-Extreme-Risk-Toolkit-GERT-)|
 |`Grid2Op`|A framework to model sequential decision making in power grid operations.|🎬|🤖 ⚙️ 📈 🎮|⚡|[[code]](https://github.com/rte-france/Grid2Op), [[docs]](https://grid2op.readthedocs.io/en/latest/), [[pypi]](https://pypi.org/project/Grid2Op/), [[website]](https://l2rpn.chalearn.org/)|
 |`HOPP`|Assess optimal designs for the deployment of utility-scale hybrid energy plants.|📝|🎮|🔋 ☀️ 🌬️|[[code]](https://github.com/NREL/HOPP), [[docs]](https://hopp.readthedocs.io/en/latest/), [[pypi]](https://pypi.org/project/HOPP/)|
 |`Hydropowerlib`|Calculate feed-in time series of run-of-the-river hydropower plants.|📝|🎮|💦|[[code]](https://github.com/hydro-python/hydropowerlib)|
